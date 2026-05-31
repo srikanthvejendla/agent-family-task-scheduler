@@ -1,0 +1,7 @@
+[      39ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/css/82f6c53dc775a6f6.css:0
+[      41ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/webpack-8ddc710bce3efda8.js:0
+[      41ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/dcce0b53-49a74c72407debee.js:0
+[      42ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/181-a9670be4898d0f25.js:0
+[      42ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/main-app-7f3c405fea4c862d.js:0
+[      42ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/app/layout-bfdf257896d0bfa8.js:0
+[      43ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://100.118.254.91:8003/_next/static/chunks/app/page-fdb3d8dd634b76aa.js:0

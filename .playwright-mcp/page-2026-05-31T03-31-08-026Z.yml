@@ -1,0 +1,116 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: FT
+        - text: FamilyTasks
+      - generic [ref=e7]:
+        - button "Toggle theme" [ref=e8]
+        - link "Status" [ref=e9] [cursor=pointer]:
+          - /url: /api/health
+  - generic [ref=e11]:
+    - generic [ref=e12]: Production-Ready Family Task Manager
+    - heading "Organize Your Household, Empower Your Family" [level=1] [ref=e13]:
+      - text: Organize Your Household,
+      - text: Empower Your Family
+    - paragraph [ref=e14]: A complete task scheduler with smart assignments, recurring chores, points rewards, and calendar integration — built for modern families.
+    - generic [ref=e15]:
+      - button "Get Started Free" [ref=e16]
+      - link "View Features" [ref=e17] [cursor=pointer]:
+        - /url: "#features"
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - heading "Everything Your Family Needs" [level=2] [ref=e20]
+      - paragraph [ref=e21]: Production-ready features from day one
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]: 📋
+        - heading "Smart Task Management" [level=3] [ref=e25]
+        - paragraph [ref=e26]: Create, assign, and track household chores with priorities, categories, and subtasks.
+      - generic [ref=e27]:
+        - generic [ref=e28]: 🔄
+        - heading "Recurring Schedules" [level=3] [ref=e29]
+        - paragraph [ref=e30]: Set daily, weekly, or monthly recurring tasks that auto-generate based on RRULE patterns.
+      - generic [ref=e31]:
+        - generic [ref=e32]: 👨‍👩‍👧‍👦
+        - heading "Multi-User Households" [level=3] [ref=e33]
+        - paragraph [ref=e34]: Invite family members with role-based permissions (parent/admin and children).
+      - generic [ref=e35]:
+        - generic [ref=e36]: ⭐
+        - heading "Points & Rewards" [level=3] [ref=e37]
+        - paragraph [ref=e38]: Gamify chores with a points system. Kids earn rewards, parents approve completions.
+      - generic [ref=e39]:
+        - generic [ref=e40]: 📅
+        - heading "Calendar Integration" [level=3] [ref=e41]
+        - paragraph [ref=e42]: Visual calendar views (month/week/day) with Google Calendar sync capability.
+      - generic [ref=e43]:
+        - generic [ref=e44]: 🎯
+        - heading "Smart Assignments" [level=3] [ref=e45]
+        - paragraph [ref=e46]: Assign tasks to specific members or allow rotation and voluntary claiming.
+      - generic [ref=e47]:
+        - generic [ref=e48]: 🔔
+        - heading "Notifications" [level=3] [ref=e49]
+        - paragraph [ref=e50]: Push notifications for assignments, reminders, and completions across all devices.
+      - generic [ref=e51]:
+        - generic [ref=e52]: 📊
+        - heading "Activity Dashboard" [level=3] [ref=e53]
+        - paragraph [ref=e54]: Track completion rates, points leaderboards, and household activity feeds.
+      - generic [ref=e55]:
+        - generic [ref=e56]: 🌙
+        - heading "Dark Mode + PWA" [level=3] [ref=e57]
+        - paragraph [ref=e58]: Beautiful dark mode with system sync, installable as a progressive web app.
+  - generic [ref=e60]:
+    - generic [ref=e61]:
+      - heading "Built With Modern Tech" [level=2] [ref=e62]
+      - paragraph [ref=e63]: Production-grade architecture, ready to scale
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - generic [ref=e66]: Next.js 15
+        - generic [ref=e67]: Full-stack framework
+      - generic [ref=e68]:
+        - generic [ref=e69]: Postgres
+        - generic [ref=e70]: Production database
+      - generic [ref=e71]:
+        - generic [ref=e72]: Better Auth
+        - generic [ref=e73]: Authentication
+      - generic [ref=e74]:
+        - generic [ref=e75]: Drizzle ORM
+        - generic [ref=e76]: Type-safe queries
+      - generic [ref=e77]:
+        - generic [ref=e78]: Tailwind v4
+        - generic [ref=e79]: Modern styling
+      - generic [ref=e80]:
+        - generic [ref=e81]: React Query
+        - generic [ref=e82]: Data fetching
+      - generic [ref=e83]:
+        - generic [ref=e84]: Zod
+        - generic [ref=e85]: Validation
+      - generic [ref=e86]:
+        - generic [ref=e87]: Docker
+        - generic [ref=e88]: Containerization
+  - contentinfo [ref=e89]:
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - generic [ref=e93]: FamilyTasks
+          - paragraph [ref=e94]: A modern, production-ready family task scheduler with multi-tenant support, gamification, and smart automation.
+        - generic [ref=e95]:
+          - generic [ref=e96]: Features
+          - list [ref=e97]:
+            - listitem [ref=e98]: Task Management
+            - listitem [ref=e99]: Recurring Schedules
+            - listitem [ref=e100]: Points & Rewards
+            - listitem [ref=e101]: Calendar Integration
+        - generic [ref=e102]:
+          - generic [ref=e103]: Resources
+          - list [ref=e104]:
+            - listitem [ref=e105]:
+              - link "Health Status" [ref=e106] [cursor=pointer]:
+                - /url: /api/health
+            - listitem [ref=e107]:
+              - link "Privacy Policy" [ref=e108] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=e109]:
+              - link "Terms of Service" [ref=e110] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e111]: © 2026 FamilyTasks. Built with Next.js 15, Postgres, and Better Auth.
